@@ -1,5 +1,12 @@
 # TheTrumpWall
 
+/!\ Warning /!\
+
+This game doesn't represent a personnal opinion or any agreement toward the Donald Trump's ideas and politic, this game is created for showing how absurd the ideas of this man are (and more precisely the idea of build a wall between USA and Mexico).
+
+All Mexican people (and their supporters) have all my respect and support for their fight against Donald Trump and his supporters.
+
+
 ## Game
 
 This game takes place at the USA and Mexico border. The USA is a strong and rich country, because of that many Mexicans want to cross the border and live in the USA. But don't worry Americans, Donald Trump is here !
