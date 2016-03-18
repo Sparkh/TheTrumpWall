@@ -1,4 +1,7 @@
 # TheTrumpWall
+
+Target player: +18
+
 ## Warning
 
 This game doesn't represent a personnal opinion or any agreement toward the Donald Trump's ideas and politic, this game is created for showing how absurd the ideas of this man are (and more precisely the idea of build a wall between USA and Mexico).
@@ -19,11 +22,15 @@ If you let too much Mexicans cross the border, the US population will be angry. 
 
 ### Rules
 
-1. Don't let any Mexican cross the wall and the river.
+1. Don't make angry the Donald Trump's supporters.
 2. NEVER be out of ammo.
 3. If the population anger is at 100% and you are out of ammo, you lose.
 
 
-### MAP (This is temporary map)
+### MAP (Temporary map)
 
-Coming soon
+![alt text][logo]
+
+[//]: <> (Image repertory)
+
+[map]: https://github.com/Sparkh/TheTrumpWall/images/tmp_map.png
