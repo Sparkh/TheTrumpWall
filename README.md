@@ -31,4 +31,4 @@ If you let too much Mexicans cross the border, the US population will be angry. 
 
 ![alt text][map]
 
-[map]: https://github.com/Sparkh/TheTrumpWall/images/tmp_map.png "tmp map"
+[map]: https://github.com/Sparkh/TheTrumpWall/blob/develop/images/tmp_map.png "tmp map"
